@@ -1,3 +1,5 @@
 :80
 
-file_server browse
+file_server {
+    browse /etc/caddy/templates/browse.html
+}
