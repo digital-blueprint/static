@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 354.33 354.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Unbenannter_Verlauf_14);
+        opacity: .3;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_14-2);
+        opacity: .55;
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_14-3);
+        opacity: .83;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_14" data-name="Unbenannter Verlauf 14" x1="146.51" y1="-2689.17" x2="146.51" y2="-2968.5" gradientTransform="translate(-1957.38 2073.85) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#000"/>
+      <stop offset=".84" stop-color="#999"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_14-2" data-name="Unbenannter Verlauf 14" x1="177.17" y1="-2689.17" x2="177.17" y2="-2968.5" gradientTransform="translate(-1948.4 2052.17) rotate(45)" xlink:href="#Unbenannter_Verlauf_14"/>
+    <linearGradient id="Unbenannter_Verlauf_14-3" data-name="Unbenannter Verlauf 14" x1="207.82" y1="-2689.17" x2="207.82" y2="-2968.5" gradientTransform="translate(-1939.42 2030.5) rotate(45)" xlink:href="#Unbenannter_Verlauf_14"/>
+  </defs>
+  <polygon class="cls-4" points="347.48 177.17 207.82 37.5 192.49 52.83 177.16 37.5 161.84 52.83 146.51 37.5 6.85 177.17 146.51 316.83 161.84 301.5 177.17 316.83 192.49 301.5 207.82 316.83 347.48 177.17"/>
+  <rect class="cls-1" x="47.75" y="78.41" width="197.51" height="197.51" transform="translate(-82.36 155.49) rotate(-45)"/>
+  <rect class="cls-2" x="78.41" y="78.41" width="197.51" height="197.51" transform="translate(-73.38 177.17) rotate(-45)"/>
+  <rect class="cls-3" x="109.07" y="78.41" width="197.51" height="197.51" transform="translate(-64.41 198.84) rotate(-45)"/>
+  <path class="cls-4" d="M201.26,173.98h-47.04c-1.41,0-2.55-1.14-2.55-2.55v-45.96c0-1.41,1.14-2.55,2.55-2.55h86.79c1.41,0,2.55,1.14,2.55,2.55v6.23c0,1.41-1.14,2.55-2.55,2.55s-2.55-1.14-2.55-2.55v-3.68h-81.69v40.85h44.49c1.41,0,2.55,1.14,2.55,2.55s-1.14,2.55-2.55,2.55Z"/>
+  <g>
+    <path class="cls-4" d="M193.04,142.62h-26.97c-1.41,0-2.55-1.14-2.55-2.55s1.14-2.55,2.55-2.55h26.97c1.41,0,2.55,1.14,2.55,2.55s-1.14,2.55-2.55,2.55Z"/>
+    <path class="cls-4" d="M193.04,159.38h-26.97c-1.41,0-2.55-1.14-2.55-2.55s1.14-2.55,2.55-2.55h26.97c1.41,0,2.55,1.14,2.55,2.55s-1.14,2.55-2.55,2.55Z"/>
+  </g>
+  <g class="cls-5">
+    <path class="cls-4" d="M224.23,231.41c-.84,0-1.64-.41-2.12-1.13l-5.33-7.91-10.13,3.67c-.91,.34-1.97,.11-2.68-.6-.7-.7-.93-1.74-.59-2.68l15.12-41.21c-5.84-4.71-9.26-11.81-9.26-19.38,0-13.73,11.17-24.9,24.9-24.9s24.9,11.17,24.9,24.9c0,7.56-3.43,14.67-9.26,19.38l15.12,41.2c.34,.93,.11,1.97-.59,2.68-.7,.7-1.76,.94-2.68,.6l-10.13-3.67-5.33,7.91c-.56,.82-1.55,1.24-2.52,1.1-.98-.16-1.78-.87-2.05-1.83l-7.46-26.43-7.46,26.44c-.27,.96-1.07,1.67-2.05,1.83-.13,.02-.27,.03-.4,.03Zm-6.44-14.67c.83,0,1.63,.41,2.12,1.13l3.36,5,8.42-29.84c.62-2.2,4.3-2.2,4.91,0l8.42,29.83,3.36-5c.65-.97,1.88-1.39,2.99-.97l6.86,2.48-13.89-37.84c-.4-1.1,0-2.33,.96-2.99,5.42-3.7,8.65-9.81,8.65-16.36,0-10.92-8.88-19.8-19.79-19.8s-19.8,8.88-19.8,19.8c0,6.59,3.26,12.72,8.73,16.42,1.07,.72,1.43,2.13,.84,3.28-.06,.12-.14,.24-.22,.34l-13.63,37.16,6.86-2.48c.28-.1,.58-.15,.87-.15Z"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="10.69 10.94 1.98 10.94 1.98 2.43 18.04 2.43 18.04 3.59"/>
+  <g>
+    <line class="cls-1" x1="4.17" y1="5.13" x2="9.16" y2="5.13"/>
+    <line class="cls-1" x1="4.17" y1="8.24" x2="9.16" y2="8.24"/>
+  </g>
+  <path class="cls-2" d="M19.1,12.64l2.92,7.96-2.22-.8-1.19,1.77-1.84-6.5h0l-1.84,6.51-1.19-1.77-2.22,.8,2.92-7.95h.02c-1.1-.74-1.82-2-1.82-3.42,0-2.28,1.85-4.14,4.14-4.14s4.14,1.85,4.14,4.14c0,1.42-.72,2.67-1.81,3.42h0Z"/>
+</svg>

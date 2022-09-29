@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 354.33 354.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Unbenannter_Verlauf_14);
+        opacity: .3;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_14-2);
+        opacity: .55;
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_14-3);
+        opacity: .83;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_14" data-name="Unbenannter Verlauf 14" x1="146.51" y1="-2689.17" x2="146.51" y2="-2968.5" gradientTransform="translate(-1957.38 2073.85) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#000"/>
+      <stop offset=".84" stop-color="#999"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_14-2" data-name="Unbenannter Verlauf 14" x1="177.17" y1="-2689.17" x2="177.17" y2="-2968.5" gradientTransform="translate(-1948.4 2052.17) rotate(45)" xlink:href="#Unbenannter_Verlauf_14"/>
+    <linearGradient id="Unbenannter_Verlauf_14-3" data-name="Unbenannter Verlauf 14" x1="207.82" y1="-2689.17" x2="207.82" y2="-2968.5" gradientTransform="translate(-1939.42 2030.5) rotate(45)" xlink:href="#Unbenannter_Verlauf_14"/>
+  </defs>
+  <polygon class="cls-4" points="347.48 177.17 207.82 37.5 192.49 52.83 177.16 37.5 161.84 52.83 146.51 37.5 6.85 177.17 146.51 316.83 161.84 301.5 177.17 316.83 192.49 301.5 207.82 316.83 347.48 177.17"/>
+  <rect class="cls-1" x="47.75" y="78.41" width="197.51" height="197.51" transform="translate(-82.36 155.49) rotate(-45)"/>
+  <rect class="cls-2" x="78.41" y="78.41" width="197.51" height="197.51" transform="translate(-73.38 177.17) rotate(-45)"/>
+  <rect class="cls-3" x="109.07" y="78.41" width="197.51" height="197.51" transform="translate(-64.41 198.84) rotate(-45)"/>
+  <path class="cls-4" d="M253.34,238.2c-1.78,0-3.21-1.44-3.21-3.21V123.19c0-.35-.29-.64-.65-.64h-73.24c-5.31,0-9.64,4.32-9.64,9.64v93.17c0,1.78-1.44,3.21-3.21,3.21s-3.21-1.44-3.21-3.21v-93.17c0-8.86,7.2-16.06,16.06-16.06h73.24c3.9,0,7.07,3.17,7.07,7.07v111.8c0,1.78-1.44,3.21-3.21,3.21Z"/>
+  <g class="cls-5">
+    <path class="cls-4" d="M227.63,148.25h-38.55c-1.78,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h38.55c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+  </g>
+  <path class="cls-4" d="M253.34,199.65h-80.31c-1.78,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h80.31c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+  <path class="cls-4" d="M253.34,218.93h-80.31c-1.78,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h80.31c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+  <path class="cls-4" d="M253.34,238.2h-80.31c-1.78,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h80.31c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+  <path class="cls-4" d="M173.02,218.93c-7.69,0-12.85-5.16-12.85-12.85s5.16-12.85,12.85-12.85c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21c-5.8,0-6.43,4.49-6.43,6.43s.63,6.43,6.43,6.43c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+  <path class="cls-4" d="M173.02,238.2c-7.69,0-12.85-5.16-12.85-12.85s5.16-12.85,12.85-12.85c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21c-5.8,0-6.43,4.49-6.43,6.43s.63,6.43,6.43,6.43c1.78,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21Z"/>
+</svg>
