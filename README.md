@@ -1,5 +1,6 @@
 # Digital Blueprint Static Webspace
 
+[Online](static.digital-blueprint.org) |
 [GitHub](https://github.com/digital-blueprint/static)
 
 ## Build and test
