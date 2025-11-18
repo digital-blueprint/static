@@ -1,5 +1,6 @@
 :80
 
+root * /static
 file_server {
     browse /etc/caddy/templates/browse.html
 }
