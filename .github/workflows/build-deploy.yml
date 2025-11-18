@@ -11,13 +11,21 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
 
+permissions: {}
+
 jobs:
   build:
 
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read
+      packages: write
+
     steps:
     - uses: actions/checkout@v5
+      with:
+        persist-credentials: false
 
     - name: Log in to the Container registry
       run: |
